@@ -1,6 +1,12 @@
 # AutoCAD-101
 Basic AutoCAD plugin using C# .NET 
 
+dll references:
+1. C:\Program Files\Autodesk\AutoCAD 2018\accoremgd.dll
+2. C:\Program Files\Autodesk\AutoCAD 2018\acdbmgd.dll
+3. C:\Program Files\Autodesk\AutoCAD 2018\acmgd.dll
+4. System.Windows.Forms
+
 Steps to Run the Code:
 
 1. Open the project (.csproj) in Visual Studio
